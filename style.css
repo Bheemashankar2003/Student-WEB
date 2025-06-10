@@ -61,6 +61,13 @@
     padding: 0px;
     animation: fadeIn 0.8s ease-in-out;
   }
+
+  .head {
+    color: black;
+    padding: 3px;
+    margin: 2px;
+    text-decoration: none;
+  }
   
   /* Heading */
 
@@ -162,6 +169,7 @@
     padding: 10px 16px;
     border: none;
     margin-top: 15px;
+    margin-left: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
     cursor: pointer;
@@ -173,8 +181,8 @@
   .diva {
 
     box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin: 20px 80px;
-    padding: 40px;
+    margin: 50px;
+    padding: 35px;
     border-radius: 20px;
     display: block;
     text-align: center;
@@ -194,7 +202,7 @@
 
     text-decoration: none;
     color: black;
-    padding: 10px 16px;
+    padding: 8px;
     border: none;
     margin-top: 15px;
   }
@@ -202,8 +210,8 @@
   .divb {
 
     box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin: 20px 80px;
-    padding: 40px;
+    margin: 50px;
+    padding: 35px;
     border-radius: 20px;
     display: block;
     text-align: center;
@@ -215,8 +223,8 @@
 .divc {
 
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: 20px 80px;
-  padding: 40px;
+  margin: 50px;
+  padding: 35px;
   display: block;
   text-align: center;
   border-radius: 20px;
@@ -245,8 +253,8 @@
 .divd {
 
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: 20px 80px;
-  padding: 40px;
+  margin: 50px;
+  padding: 35px;
   display: block;
   border-radius: 10px;
   text-align: center;
@@ -259,15 +267,15 @@
 
   text-align: center;
   justify-content: center;
-  margin: 20px;
+  margin-top: 10px;
   font-family: 'Montserrat', sans-serif;
 }
 
 .dive {
 
-  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin: 20px 80px;
-    padding: 40px;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 50px;
+    padding: 35px;
     display: block;
     text-align: center;
     border-radius: 20px;
@@ -303,8 +311,8 @@
 .divf {
 
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: 20px 80px;
-  padding: 40px;
+  margin: 50px;
+  padding: 35px;
   text-align: center;
   border-radius: 20px;
   font-size: large;
@@ -314,8 +322,8 @@
 
 .divg {
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: 20px 80px;
-  padding: 40px;
+  margin: 50px;
+  padding: 35px;
   display: block;
   text-align: center;
   border-radius: 20px;
@@ -326,8 +334,8 @@
 .divh {
 
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: 20px 80px;
-  padding: 40px;
+  margin: 50px;
+  padding: 35px;
   display: block;
   text-align: center;
   border-radius: 20px;
@@ -343,14 +351,14 @@
   justify-content: left;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  margin-left: 60px;
+  margin-left: 70px;
   padding: 0px;
 }
 .divi{
 
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: 20px 80px;
-  padding: 40px;
+  margin: 50px;
+  padding: 35px;
   display: block;
   text-align: center;
   border-radius: 20px;
